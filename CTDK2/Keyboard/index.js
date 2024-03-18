@@ -1,6 +1,7 @@
 function upArrowPressed() {
     let element = document.getElementById("nobita");
     element.style.top = parseInt(element.style.top) - 5 +'px';
+
 }//
 function downArrowPressed() {
     let element = document.getElementById("nobita");
