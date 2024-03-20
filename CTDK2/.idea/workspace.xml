@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fea97f9-2d13-40b3-9697-977680faf3f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TinhBMI/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TinhBMI/myJs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Keyboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Keyboard/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2drR492wthWh9qZ3n4ZJ7Z8H7MH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,10 +36,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/CodegymHn/tinhtiendien",
+    "last_opened_file_path": "D:/CodegymHn/CTDK2/TinhBMI",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +59,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710764016052</updated>
       <workItem from="1710764017086" duration="3340000" />
+      <workItem from="1710818286677" duration="2822000" />
+      <workItem from="1710821240446" duration="1751000" />
     </task>
     <servers />
   </component>
