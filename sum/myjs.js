@@ -6,8 +6,8 @@ while (true) {
     
     if (input === 'q') {
         break;
-    } else if (!isNaN(parseFloat(input))){
-        sum += parseFloat(input);
+    } else if (!isNaN(parseInt(input))){
+        sum += parseInt(input);
     } else {
         alert('Vui lòng nhập một số hợp lệ hoặc q để thoát.')
     }
